@@ -4,3 +4,11 @@ legacy
 *.i
 *.s
 .DS_Store
+
+# Object files supplied with lab 2.
+!/lab-02/core.o
+!/lab-02/legacy.o
+!/lab-02/hotfix.o
+!/lab-02/main.o
+
+/lab-02/app*

@@ -12,3 +12,8 @@ legacy
 !/lab-02/main.o
 
 /lab-02/app*
+
+/lab-03/app*
+/lab-03/*.a
+/lab-03/*.so
+/lab-03/noextern/
